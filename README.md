@@ -3,7 +3,7 @@
 pkg install git
 ```
 ```
-git clone https://github.com/bangpateng/push-dc
+git clone https://github.com/clearly01/push-dc
 ```
 ```
 pkg install python
@@ -23,4 +23,3 @@ cd push-dc
 ```
 python main.py
 ```
-Created : bgpateng
